@@ -5,5 +5,8 @@
 	username = Malaika-cstj
 
 [core]
-	core = nvim
+	editor = nvim
+
+[github]
+
 

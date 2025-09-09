@@ -1,6 +1,6 @@
 #!/bin/bashrc
 
-echo "Bienvenue sur le bureau de , $(whoami)!"
+echo "Bienvenue sur le bureau de , $user!"
 
 createFile()
 {

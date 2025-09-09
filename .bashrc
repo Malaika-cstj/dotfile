@@ -7,8 +7,8 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias ls ='"ls -l" ; "ls -a"'
-alias ll='"ll -l" ; "ll -a"'
+alias ls ="ls -al";
+alias ll="ll -al";
 alias c='clear'
 alias grepc='grep --color=red'
 
